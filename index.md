@@ -1,5 +1,5 @@
-# Privacy Policy 
-## ASPIC app
+# Privacy Policy - ASPIC app
+## Granny studio property
 
 
 Granny Studio built the Aspic app as a Commercial app. This SERVICE is provided by Granny Studio and is intended for use as is.
