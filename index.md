@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Privacy Policy 
+## ASPIC 
 
 You can use the [editor on GitHub](https://github.com/Lyrea/Granny-Studio_ASPIC-policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
