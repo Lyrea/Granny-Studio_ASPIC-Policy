@@ -1,1 +1,1 @@
-# Granny-Studio_HastySnake-policy
+### HastySnake-policy
