@@ -1,5 +1,5 @@
 # Privacy Policy - Hasty Snake app
-# _Granny studio property_
+# _Frederic Gence property_
 
 
 Frederic Gence built the Hasty Snake app as a Commercial app. This SERVICE is provided by Frederic Gence and is intended for use as is.
