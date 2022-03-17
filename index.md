@@ -2,7 +2,7 @@
 # _Granny studio property_
 
 
-Granny Studio built the Hasty Snake app as a Commercial app. This SERVICE is provided by Granny Studio and is intended for use as is.
+Frederic Gence built the Hasty Snake app as a Commercial app. This SERVICE is provided by Frederic Gence and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
